@@ -20,6 +20,8 @@ The assignment this week is to use Supervised Machine Learning to predict credit
 
 <img width="615" alt="Screen Shot 2022-10-27 at 2 09 55 PM" src="https://user-images.githubusercontent.com/108151049/198366289-bf220b17-5064-411b-bd45-790576b47916.png">
 
+The two ML models (BalancedRandomForestClassifier and EasyEnsembleClassifier)
+
 <img width="623" alt="Screen Shot 2022-10-27 at 2 12 13 PM" src="https://user-images.githubusercontent.com/108151049/198366700-69c2616b-c7ba-4c9d-8ca1-d7b034f2c0b9.png">
 <img width="610" alt="Screen Shot 2022-10-27 at 2 12 56 PM" src="https://user-images.githubusercontent.com/108151049/198366842-40f76a06-4097-4704-baf1-40c543ffefea.png">
 
