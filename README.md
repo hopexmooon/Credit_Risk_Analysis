@@ -29,8 +29,5 @@ The two ML models (BalancedRandomForestClassifier and EasyEnsembleClassifier) ha
 
 ### Summary: 
 
-Out of all the models, Easy Ensemble Classifier had the highest balanced accuracy score, however, a .84 still isn't reassuring and fails to perform.
-
-
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Out of all the models, Easy Ensemble Classifier had the highest balanced accuracy score, however, a .84 still isn't reassuring and fails to perform. Although .84 is the highest that still means .16 is missing. 
 
